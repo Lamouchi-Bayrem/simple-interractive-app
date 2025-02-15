@@ -16,7 +16,10 @@ Enter second number: 3
 
 Sum: 10
 
-Key Concepts Used
+Key Concepts Used:
+
 ✅ argc & argv[] to handle command-line arguments
+
 ✅ atoi() to convert string arguments to integers
+
 ✅ scanf() for interactive input when arguments are missing
