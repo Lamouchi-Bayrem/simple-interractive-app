@@ -1,7 +1,9 @@
-Example Runs
+Example Runs:
+
 Case 1: With Command-line Arguments
 $ ./sum 4 6
 Sum: 10
+
 Case 2: Missing Arguments (Interactive Mode)
 $ ./sum
 Enter first number: 7
